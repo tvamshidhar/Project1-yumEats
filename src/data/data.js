@@ -165,49 +165,49 @@ export const categories=[
         name:'fast food',
         image:'https://media.istockphoto.com/id/1323040139/vector/vector-trendy-sign-fast-food-creative-3d-alphabet-letters-and-numbers-set.jpg?s=612x612&w=0&k=20&c=0ogXwRIbLyEAhAt40f8yoxxk8mNF7d1EXVyohQY1zow='
     },
-    {
+   {
         id:4,
         name:'wings',
-        img:'https://th.bing.com/th/id/OIP.fCy96ke8_nnRIVw4GwcqygHaFB?w=225&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7'
+        image:'https://th.bing.com/th/id/OIP.l-Jl8jDXgytffJocwQ1AwwHaEp?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7'
     },
     {
         id:5,
         name:'pizza',
-        img:'https://media.istockphoto.com/id/1128704035/vector/funny-pizza-sign-in-retro-style.jpg?s=612x612&w=0&k=20&c=fyzXROR3sPCr4b0iWoM1ATVtkKydcI81ChmPg9RA934='
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqV2Qwsc9tgnhBtw4DxkEkvijsmfV11xdMMw&usqp=CAU'
     },
     {
         id:6,
         name:'cake',
-        img:'https://media.istockphoto.com/id/1169373918/vector/beautiful-and-minimalist-cake-line-art-logo-design-with-script-text.jpg?s=612x612&w=0&k=20&c=o8eGUmqN3nPrZpzJspaENtMoUo8mmrpfI1M1ZoWi9-s='
+        image:'https://media.istockphoto.com/id/1169373918/vector/beautiful-and-minimalist-cake-line-art-logo-design-with-script-text.jpg?s=612x612&w=0&k=20&c=o8eGUmqN3nPrZpzJspaENtMoUo8mmrpfI1M1ZoWi9-s='
     },
     {
         id:7,
         name:'ice cream',
-        img:'https://media.istockphoto.com/id/1295557858/vector/ice-cream-vector-design-premium-2.jpg?s=612x612&w=0&k=20&c=NJsA3QkKBSj1UCJ6W6Q5Dk8dAQwUR3Y3Efz3nPp6RAc='
+        image:'https://media.istockphoto.com/id/1295557858/vector/ice-cream-vector-design-premium-2.jpg?s=612x612&w=0&k=20&c=NJsA3QkKBSj1UCJ6W6Q5Dk8dAQwUR3Y3Efz3nPp6RAc='
     },
     {
         id:8,
         name:'shawarma',
-        img:'https://media.istockphoto.com/id/1223426309/vector/shawarma-sandwich-gyro-and-doner-kebab-logo-design-roll-of-lavash-with-meat-and-vegetables.jpg?s=612x612&w=0&k=20&c=xeqffpuwbJcgip4idgPPue_u6hqerHSNK2j3a07C0Hg='
+        image:'https://media.istockphoto.com/id/1223426309/vector/shawarma-sandwich-gyro-and-doner-kebab-logo-design-roll-of-lavash-with-meat-and-vegetables.jpg?s=612x612&w=0&k=20&c=xeqffpuwbJcgip4idgPPue_u6hqerHSNK2j3a07C0Hg='
     },
     {
         id:9,
         name:'apple pie',
-        img:'https://media.istockphoto.com/id/1355675187/vector/vintage-retro-emblem-seal-badge-apple-pie-logo-bakery-vector-template-on-white-background.jpg?s=612x612&w=0&k=20&c=ZJtCn4MDjd4O9_zA8gSVofAWVD5c8tP2gjOqA4O7t00='
+        image:'https://media.istockphoto.com/id/1355675187/vector/vintage-retro-emblem-seal-badge-apple-pie-logo-bakery-vector-template-on-white-background.jpg?s=612x612&w=0&k=20&c=ZJtCn4MDjd4O9_zA8gSVofAWVD5c8tP2gjOqA4O7t00='
     },
     {
         id:10,
         name:'risotto',
-        img:'https://media.istockphoto.com/id/1392775965/vector/risotto-italian-food-digital-handwritten-lettering.jpg?s=612x612&w=0&k=20&c=AjgZiDnWVZmzqIL1Sa5mxx_yOxpesn35sMCUhTBT69k='
+        image:'https://media.istockphoto.com/id/1392775965/vector/risotto-italian-food-digital-handwritten-lettering.jpg?s=612x612&w=0&k=20&c=AjgZiDnWVZmzqIL1Sa5mxx_yOxpesn35sMCUhTBT69k='
     },
     {
         id:11,
         name:'vegtable',
-        img:'https://media.istockphoto.com/id/1175619057/vector/vegetable-logo-vegan-label-design-vector.jpg?s=612x612&w=0&k=20&c=QzmitmA7t34W2sfnAqD9yoyFnREMmw7QJqm8X4vJhwQ='
+        image:'https://media.istockphoto.com/id/1175619057/vector/vegetable-logo-vegan-label-design-vector.jpg?s=612x612&w=0&k=20&c=QzmitmA7t34W2sfnAqD9yoyFnREMmw7QJqm8X4vJhwQ='
     },
     {
         id:12,
         name:'chinese cuisine',
-        img:'https://media.istockphoto.com/id/1170018769/vector/chinese-cuisine-icon-for-chinese-restaurant-vector-illustration.jpg?s=612x612&w=0&k=20&c=s2AzpkGPE8d_ypFyUMaL03b9sb6ELXURZMSQ9Xfn9-4='
+        image:'https://media.istockphoto.com/id/1170018769/vector/chinese-cuisine-icon-for-chinese-restaurant-vector-illustration.jpg?s=612x612&w=0&k=20&c=s2AzpkGPE8d_ypFyUMaL03b9sb6ELXURZMSQ9Xfn9-4='
     },
 ]
